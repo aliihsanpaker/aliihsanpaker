@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliihsanpaker" alt="aliihsanpaker" /></a> </p>
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **aliihsanpaker4@gmail.com**
 
